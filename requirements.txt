@@ -1,0 +1,5 @@
+Flask==2.2.2
+requests
+pandas==1.1.4
+pytz
+debugpy # Required for debugging.
